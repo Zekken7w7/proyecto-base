@@ -1,0 +1,14 @@
+.App-Header {
+  color: white; 
+  font-size: 24px;
+}
+.App {
+  height: 100vh;
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    170deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(241, 44, 157, 1) 38%,
+    rgba(0, 212, 255, 1) 100%
+  );
+}
